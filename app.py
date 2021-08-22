@@ -13,7 +13,7 @@ fig = plt.figure()
 
 st.title('Bag Classifier')
 
-st.markdown("Welcome to this simple web application that classifies bags. The bags are classified into six different classes namely: Backpack, Briefcase, Duffle, Handbag and Purse.")
+st.markdown("Welcome to this simple web application that classifies bags. The bags are classified into five different classes namely: Backpack, Briefcase, Duffle, Handbag and Purse.")
 
 
 def main():
